@@ -27,3 +27,14 @@
     2. 吃星星 累计分数 统计最高分数
     3. 岩壁、岩柱碰撞 结束游戏
     4. 重新游戏
+
+
+#### 3. use btn control player's motion
+
+* 目录名称：Contorl_Motion
+* 游戏名称： 人物控制 / control player's motion
+* 工具： construct 2
+* 标签： 运动、Platform、虚拟控制按钮
+* 在线试玩地址：[虚拟玩家控制demo](https://riverscoder.github.io/construct2-h5-games/Contorl_Motion/index.html) 
+* 游戏简介：通过虚拟UI按钮控制人物的左、右、跳跃运动
+
